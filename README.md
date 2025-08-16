@@ -15,7 +15,7 @@ To Leverage my 6 years of experience as a Business Analyst in transitioning to a
 •  Data Analysis & Analytics
 •  SQL Query & Data Analytics Tools
 
-## Tools 🛠️
+## Tools
 
 ### Business Analysis & Project Management
 - **Jira**: Managed user stories and ensured 100% traceability for Agile projects.
