@@ -1,16 +1,16 @@
 ## Hello, I'm Afeez
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/afeezakorede/)
 
-[Brief Introduction]
 
-I am a former Business Analyst with 6 years of experience, now transitioning into cybersecurity.
+### About Me 💼
+ I have 6 years of experience as a Business Analyst, where I specialized in turning data into actionable insights and improving business processes. I’m now transitioning into Cybersecurity, sharpening my skills through hands on in threat analysis, risk management, and security tools. My goal is to bridge the gap between business strategy and cyber defense, helping organizations stay secure while driving growth. 
 
-## Objective
 
-To Leverage my 6 years of experience as a Business Analyst in transitioning to a cybersecurity role, applying my analytical skills to develop and contribute to innovative security solutions.
+### 🔹 Current Focus:
+• Building hands on skills in threat analysis & vulnerability management through practical labs and security challenges.
+• Expanding knowledge in security frameworks & risk management to bridge business analysis with cybersecurity practices.
 
-## Skill
+## Skill & Interest 
  •  Requirements Elicitation & Management
 •  Data Analysis & Analytics
 •  SQL Query & Data Analytics Tools
