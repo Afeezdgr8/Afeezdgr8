@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> 
 Hello, I'm Afeez Akorede, I am a cybersecurity professional with two years of hands on experience applying enterprise analysis, risk evaluation, and systems governance principles to the protection of cloud and on premises environments. My work centers on identifying security gaps, evaluating technical and business impact, and supporting the implementation of controls that align security initiatives with organizational objectives.
 I bring a structured and analytical approach to cybersecurity operations, leveraging data analysis, process modeling, and requirements-driven assessment to strengthen threat detection, vulnerability management, and incident response capabilities. By translating technical findings into clear business context, I help ensure security decisions are risk-informed, measurable, and aligned with enterprise risk tolerance.
 
